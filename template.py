@@ -23,7 +23,8 @@ list_of_files = [
      "requirements.txt",
      "setup.py",
      "research.ipynb",
-     "README.md"
+     "README.md",
+     "template/index.html"
 ]
 
 
